@@ -1,0 +1,66 @@
+Grafica:{
+    Nombre:"Nombre de grafico";
+    Continente{
+        Nombre: "Asia";
+        Pais:{
+            Nombre:"Japon";
+            Poblacion: 2352342;
+            Saturacion:80%;
+            Bandera: "C:\imagen.jpg";
+        }
+        Pais:{
+            Poblacion:1350000000 ;
+            Saturacion:20%;
+            Bandera: "C:\imagen.jpg";
+            Nombre:"China";
+        }
+        Pais:{
+            Saturacion:40%;
+            Poblacion: 2352342;
+            Nombre:"Korea";
+            Bandera: "C:\imagen.jpg";
+        }
+    }
+    Continente{
+        Nombre: "America";
+        Pais:{
+            Nombre:"Canada";
+            Poblacion: 23423423;
+            Saturacion:20%;
+            Bandera: "C:\imagen.jpg"
+        }
+        Pais:{
+            Poblacion: 17263239;
+            Nombre:"Guatemala";
+            Saturacion:40%;
+            Bandera: "C:\guate.jpg"
+        }
+        Pais:{
+            Saturacion:60%;
+            Nombre:"Chile";
+            Poblacion: 235234234;
+            Bandera: "C:\imagen.jpg"
+        }
+    }
+    Continente{
+        Nombre: "Europa";
+        Pais:{
+            Nombre:"Espa�a";
+            Poblacion: 23423423;
+            Saturacion:20%;
+            Bandera: "C:\imagen.jpg"
+        }
+        Pais:{
+            Poblacion: 17263239;
+            Nombre:"Francia";
+            Saturacion:40%;
+            Bandera: "C:\guate.jpg"
+        }
+        Pais:{
+            Saturacion:60%;
+            Nombre:"Rusia";
+            Poblacion: 235234234;
+            Bandera: "C:\imagen.jpg"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.exe.config
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.exe
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.pdb
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.csprojResolveAssemblyReference.cache
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Form1.resources
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Properties.Resources.resources
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.csproj.GenerateResource.Cache
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.exe
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.pdb
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.exe.config
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.exe
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.pdb
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.csprojResolveAssemblyReference.cache
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Form1.resources
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Properties.Resources.resources
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.csproj.GenerateResource.Cache
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.exe
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.pdb
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Acerda_De.resources
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.exe.config
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.exe
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Debug\Proyecto_1.pdb
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.csprojAssemblyReference.cache
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Acerda_De.resources
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Form1.resources
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.Properties.Resources.resources
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.csproj.GenerateResource.cache
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.exe
+D:\Documents\Elian\Usb Laptop (2019)\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Debug\Proyecto_1.pdb

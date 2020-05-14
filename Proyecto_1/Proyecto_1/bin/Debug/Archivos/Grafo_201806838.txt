@@ -1,0 +1,23 @@
+digraph G{
+rankdir=TB;
+node[shape=Mdiamond];
+inicio [label = "Nombre de grafico"];
+ node[shape=record];
+cont1[label = " {<f0> Asia|<f1> 40}", color = black, fillcolor = green, style=filled];
+inicio -> cont1;
+pais1[label = " {<f0> Japon|<f1> 80}", color = black, fillcolor = red, style=filled];
+cont1 -> pais1;
+pais2[label = " {<f0> China|<f1> 0}", color = black, fillcolor = white, style=filled];
+cont1 -> pais2;
+pais3[label = " {<f0> Korea|<f1> 40}", color = black, fillcolor = green, style=filled];
+cont1 -> pais3;
+cont1[label = " {<f0> Asia|<f1> 40}", color = black, fillcolor = green, style=filled];
+cont2[label = " {<f0> America|<f1> 55}", color = black, fillcolor = yellow, style=filled];
+inicio -> cont2;
+pais4[label = " {<f0> Canada|<f1> 65}", color = black, fillcolor = orange, style=filled];
+cont2 -> pais4;
+pais5[label = " {<f0> Guatemala|<f1> 40}", color = black, fillcolor = green, style=filled];
+cont2 -> pais5;
+pais6[label = " {<f0> Chile|<f1> 60}", color = black, fillcolor = yellow, style=filled];
+cont2 -> pais6;
+}

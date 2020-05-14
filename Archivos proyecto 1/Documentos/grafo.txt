@@ -1,0 +1,26 @@
+digraph G{
+	rankdir=TB;
+	node [shape=Mdiamond];
+	inicio [ label= "nombre"];
+	node [shape=record];
+	cont1 [label="{<f0> Asia|<f1> 71}", color=black, fillcolor=blue, style=filled];
+	cont2 [label="{<f0> America|<f1> 55}"];
+	pais1 [label="{<f0> Japon|<f1> 80}"];
+	pais2 [label="{<f0> China|<f1> 95}"];
+	pais3 [label="{<f0> Korea|<f1> 40}"];
+	pais4 [label="{<f0> Canada|<f1> 55}"];
+	pais5 [label="{<f0> Mexico|<f1> 89}"];
+	pais6 [label="{<f0> Perú|<f1> 35}"];
+	pais7 [label="{<f0> Guatemala|<f1> 45}"];
+	inicio -> cont1;
+	inicio -> cont2;
+	cont1 -> pais1;
+	cont1 -> pais2;
+	cont1 -> pais3;
+	cont2 -> pais4;
+	cont2 -> pais5;
+	cont2 -> pais6;
+	cont2 -> pais7;
+
+	
+}

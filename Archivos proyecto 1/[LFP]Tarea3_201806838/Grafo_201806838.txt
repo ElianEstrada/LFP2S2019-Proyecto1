@@ -1,0 +1,25 @@
+digraph G{
+rankdir=TB;
+node[shape=Mdiamond];
+inicio [label = "Corto #1"];
+ node[shape=record];
+cont1[label = " {<f0> America del Norte|<f1> 61}", color = black, fillcolor = orange, style=filled];
+inicio -> cont1;
+pais1[label = " {<f0> Canada|<f1> 75}", color = black, fillcolor = orange, style=filled];
+cont1 -> pais1;
+pais2[label = " {<f0> Mexico|<f1> 35}", color = black, fillcolor = green, style=filled];
+cont1 -> pais2;
+pais3[label = " {<f0> Estados unidos|<f1> 73}", color = black, fillcolor = orange, style=filled];
+cont1 -> pais3;
+cont1[label = " {<f0> America del Norte|<f1> 61}", color = black, fillcolor = orange, style=filled];
+cont2[label = " {<f0> America del Sur|<f1> 99}", color = black, fillcolor = red, style=filled];
+inicio -> cont2;
+pais4[label = " {<f0> Cabo verde|<f1> 99}", color = black, fillcolor = red, style=filled];
+cont2 -> pais4;
+cont1[label = " {<f0> America del Norte|<f1> 61}", color = black, fillcolor = orange, style=filled];
+cont2[label = " {<f0> America del Sur|<f1> 99}", color = black, fillcolor = red, style=filled];
+cont3[label = " {<f0> Oceania|<f1> 74}", color = black, fillcolor = orange, style=filled];
+inicio -> cont3;
+pais5[label = " {<f0> Indonesia|<f1> 74}", color = black, fillcolor = orange, style=filled];
+cont3 -> pais5;
+}

@@ -1,0 +1,10 @@
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Release\Proyecto_1.exe.config
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Release\Proyecto_1.exe
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\bin\Release\Proyecto_1.pdb
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Release\Proyecto_1.csprojResolveAssemblyReference.cache
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Release\Proyecto_1.Acerda_De.resources
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Release\Proyecto_1.Form1.resources
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Release\Proyecto_1.Properties.Resources.resources
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Release\Proyecto_1.csproj.GenerateResource.Cache
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Release\Proyecto_1.exe
+C:\Users\elian\Documents\Elian\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Proyecto_1\Proyecto_1\obj\Release\Proyecto_1.pdb

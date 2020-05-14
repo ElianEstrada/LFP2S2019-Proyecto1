@@ -1,0 +1,9 @@
+Grafica: Corto #1
+	Continente: America del Norte Población Total: 667308 Saturación: 61% Color: orange
+		Pais: Canada Población: 35295 Saturación: 75% Bandera: C:\imagen\Canada.jpg Color: orange
+		Pais: Mexico Población: 119713 Saturación: 35% Bandera: C:\imagen\Mexico.jpg Color: green
+		Pais: Estados unidos Población: 512300 Saturación: 73% Bandera: C:\imagen\EEUU.jpg Color: orange
+	Continente: America del Sur Población Total: 35000 Saturación: 99% Color: red
+		Pais: Cabo verde Población: 35000 Saturación: 99% Bandera: C:\imagen\CaboVerde.jpg Color: red
+	Continente: Oceania Población Total: 55000 Saturación: 74% Color: orange
+		Pais: Indonesia Población: 55000 Saturación: 74% Bandera: C:\imagen\Indonesia.jpg Color: orange
